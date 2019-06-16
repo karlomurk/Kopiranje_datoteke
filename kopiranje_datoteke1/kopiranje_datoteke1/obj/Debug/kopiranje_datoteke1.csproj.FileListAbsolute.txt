@@ -1,0 +1,10 @@
+c:\users\karlo\source\repos\kopiranje_datoteke1\kopiranje_datoteke1\bin\Debug\kopiranje_datoteke1.exe.config
+c:\users\karlo\source\repos\kopiranje_datoteke1\kopiranje_datoteke1\bin\Debug\kopiranje_datoteke1.exe
+c:\users\karlo\source\repos\kopiranje_datoteke1\kopiranje_datoteke1\bin\Debug\kopiranje_datoteke1.pdb
+c:\users\karlo\source\repos\kopiranje_datoteke1\kopiranje_datoteke1\obj\Debug\kopiranje_datoteke1.csprojAssemblyReference.cache
+c:\users\karlo\source\repos\kopiranje_datoteke1\kopiranje_datoteke1\obj\Debug\kopiranje_datoteke1.Form1.resources
+c:\users\karlo\source\repos\kopiranje_datoteke1\kopiranje_datoteke1\obj\Debug\kopiranje_datoteke1.Properties.Resources.resources
+c:\users\karlo\source\repos\kopiranje_datoteke1\kopiranje_datoteke1\obj\Debug\kopiranje_datoteke1.csproj.GenerateResource.cache
+c:\users\karlo\source\repos\kopiranje_datoteke1\kopiranje_datoteke1\obj\Debug\kopiranje_datoteke1.csproj.CoreCompileInputs.cache
+c:\users\karlo\source\repos\kopiranje_datoteke1\kopiranje_datoteke1\obj\Debug\kopiranje_datoteke1.exe
+c:\users\karlo\source\repos\kopiranje_datoteke1\kopiranje_datoteke1\obj\Debug\kopiranje_datoteke1.pdb

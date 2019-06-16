@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kopiranje_datoteke1", "kopiranje_datoteke1\kopiranje_datoteke1.csproj", "{A6AB2BA4-1A41-4A49-974F-185B0A2F256F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6AB2BA4-1A41-4A49-974F-185B0A2F256F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6AB2BA4-1A41-4A49-974F-185B0A2F256F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6AB2BA4-1A41-4A49-974F-185B0A2F256F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6AB2BA4-1A41-4A49-974F-185B0A2F256F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B8B696B-3224-4B29-B24F-12BA9EB21ADC}
+	EndGlobalSection
+EndGlobal
